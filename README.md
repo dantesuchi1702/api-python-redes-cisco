@@ -1,6 +1,6 @@
 # Trabajo Práctico Integrador - Redes de Computadoras
 
-## Integrantes del Grupo
+## Integrantes del Grupo 4
 * **Dante Segovia**
 * **Tobías Caba**
 * **Lautaro Villafañe**
